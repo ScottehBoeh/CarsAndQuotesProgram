@@ -1,0 +1,42 @@
+{
+  "quoteUUID": "14d3fe7c-0e1f-44f9-aa04-2040996065af",
+  "quoteCar": {
+    "carUUID": "7dd1c916-997b-4d17-8cd5-9fbe0919cb78",
+    "carModel": "CITROEN_SPACETOURER",
+    "carEngineSize": 0,
+    "carCostPerDay": 0.0
+  },
+  "quoteCustomer": {
+    "customerUUID": "55d3fa46-bd86-4876-9926-e64eb9f99a06",
+    "contactDetails": {
+      "contactName": "Scott Robertson",
+      "contactEmail": "scottehboeh@gmail.com",
+      "contactAddress": "14MainstreetLimekilns",
+      "contactPhoneNumber": "01383872901"
+    },
+    "customerPassport": {
+      "passportInformation": "2dfed918-938b-4f0e-920e-16f32cb92281"
+    }
+  },
+  "quoteInsurance": {
+    "insuranceCompany": "CHURCHILL",
+    "insuranceCost": 20.0
+  },
+  "quotePaymentMethod": {
+    "paymentMethodUUID": "92ba27d9-8aa4-439d-962b-83faf3c7c2f7",
+    "paymentMethodCustomer": {
+      "customerUUID": "55d3fa46-bd86-4876-9926-e64eb9f99a06",
+      "contactDetails": {
+        "contactName": "Scott Robertson",
+        "contactEmail": "scottehboeh@gmail.com",
+        "contactAddress": "14MainstreetLimekilns",
+        "contactPhoneNumber": "01383872901"
+      },
+      "customerPassport": {
+        "passportInformation": "2dfed918-938b-4f0e-920e-16f32cb92281"
+      }
+    },
+    "paymentMethodCost": 10.0
+  },
+  "daysAmount": 2
+}
